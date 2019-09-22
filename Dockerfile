@@ -1,4 +1,4 @@
-FROM phusion/baseimage:0.9.22
+FROM phusion/baseimage:0.11
 MAINTAINER Jochen Breuer "brejoc@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
